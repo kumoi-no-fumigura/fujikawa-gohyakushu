@@ -1,0 +1,1380 @@
+{
+ "work": "藤河五百首",
+ "work_id": "zkt-fujikawa-gohyakushu",
+ "repo": "kumoi-no-fumigura/fujikawa-gohyakushu",
+ "yomi": "ふじかわごひゃくしゅ",
+ "category": "私家集",
+ "kind": "kashu",
+ "era": "鎌倉初期",
+ "author": "",
+ "editions": [
+  {
+   "pid": "873675",
+   "title": "続国歌大観 歌集部 第一冊",
+   "editor": "松下大三郎 編",
+   "series": "続国歌大観",
+   "publisher": "",
+   "year": 1911,
+   "pages": "",
+   "url": "https://dl.ndl.go.jp/pid/873676"
+  }
+ ],
+ "status": "未校正（續國歌大觀 第一冊の OCR から 1 首ずつ切り出し。歌番号は未確定）",
+ "license": {
+  "text": "CC0 1.0"
+ },
+ "blocks": [
+  {
+   "id": "zkt-fujikawa-gohyakushu-0001",
+   "pid": "873675",
+   "pages": [
+    84
+   ],
+   "no": null,
+   "kotobagaki": "寄草述懷",
+   "author": "",
+   "text": "ニー引棄つる例も悲し掻つめしおどろの道の元の朽葉を",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0002",
+   "pid": "873675",
+   "pages": [
+    84
+   ],
+   "no": null,
+   "kotobagaki": "寄木述懷",
+   "author": "",
+   "text": "三九九のの重のへの棟忘るなよ六十の友は朽てやみぬと",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0003",
+   "pid": "873675",
+   "pages": [
+    84
+   ],
+   "no": null,
+   "kotobagaki": "逐日懷舊",
+   "author": "",
+   "text": "〓天の戶の明る日每に忍ぶとて知らぬ昔は立も歸らず",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0004",
+   "pid": "873675",
+   "pages": [
+    84
+   ],
+   "no": null,
+   "kotobagaki": "社頭祝言",
+   "author": "",
+   "text": "エー祈るより神もさこそは願ふらめ君明かに民安くとはN",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0005",
+   "pid": "873675",
+   "pages": [
+    84
+   ],
+   "no": null,
+   "kotobagaki": "關路早春",
+   "author": "",
+   "text": "体らはで越えける春の便とや霞の關の名にも立つ覽",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0006",
+   "pid": "873675",
+   "pages": [
+    84
+   ],
+   "no": null,
+   "kotobagaki": "湖上朝霞",
+   "author": "",
+   "text": "志賀の浦や波間も霞む朝凪に長関に渡る海士の釣卅",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0007",
+   "pid": "873675",
+   "pages": [
+    84
+   ],
+   "no": null,
+   "kotobagaki": "霞雨遠樹",
+   "author": "",
+   "text": "花さかぬ四方の梢の春置待つとばかりの心へだつな",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0008",
+   "pid": "873675",
+   "pages": [
+    84
+   ],
+   "no": null,
+   "kotobagaki": "縣中開爲",
+   "author": "",
+   "text": "N古古いいゝゝいて果なれや知らぬ野山の鶯の聲",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0009",
+   "pid": "873675",
+   "pages": [
+    84
+   ],
+   "no": null,
+   "kotobagaki": "隣家竹鶯",
+   "author": "",
+   "text": "のははほほれれものを輩垣のへだつる竹に鶯ぞ鳴く",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0010",
+   "pid": "873675",
+   "pages": [
+    84
+   ],
+   "no": null,
+   "kotobagaki": "田邊若菜",
+   "author": "",
+   "text": "秋ならでとはるべし共知ざりし同じ田面に若菜をぞ摘",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0011",
+   "pid": "873675",
+   "pages": [
+    84
+   ],
+   "no": null,
+   "kotobagaki": "野外殘雪",
+   "author": "",
+   "text": "萠え出づる草の葉末に頭れて淺澤小野にのこる白雪",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0012",
+   "pid": "873675",
+   "pages": [
+    84
+   ],
+   "no": null,
+   "kotobagaki": "山路梅花",
+   "author": "",
+   "text": "〓梅が香も袂にとまる匂にて暫しやすらふ春の山ごえ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0013",
+   "pid": "873675",
+   "pages": [
+    84
+   ],
+   "no": null,
+   "kotobagaki": "梅薫夜風",
+   "author": "",
+   "text": "ささひ行く風の便の梅の花香を尋ねても猶や惑はむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0014",
+   "pid": "873675",
+   "pages": [
+    84
+   ],
+   "no": null,
+   "kotobagaki": "水邊古柳",
+   "author": "",
+   "text": "形影つつす池に水草の茂るまで春をそへぬる靑柳の糸",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0015",
+   "pid": "873675",
+   "pages": [
+    84
+   ],
+   "no": null,
+   "kotobagaki": "雨中待花",
+   "author": "",
+   "text": "が待たれつる心盡しに降る雨のめぐみをいそぐ山櫻哉",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0016",
+   "pid": "873675",
+   "pages": [
+    84
+   ],
+   "no": null,
+   "kotobagaki": "野花留人",
+   "author": "",
+   "text": "花花の色にとめし心の名殘とて住や果なむ野邊の假庵",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0017",
+   "pid": "873675",
+   "pages": [
+    84
+   ],
+   "no": null,
+   "kotobagaki": "遠望山花",
+   "author": "",
+   "text": "〓紛へつる雲とも見えず山櫻はては霞の立ち隔てつる",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0018",
+   "pid": "873675",
+   "pages": [
+    84
+   ],
+   "no": null,
+   "kotobagaki": "曉庭落花",
+   "author": "",
+   "text": "有明の月はつれなき庭の面に花や別の時を知るらむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0019",
+   "pid": "873675",
+   "pages": [
+    84
+   ],
+   "no": null,
+   "kotobagaki": "故〓夕花",
+   "author": "",
+   "text": "〓見る人もなき故郷の梢にて暮るゝもやすき花の色哉",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0020",
+   "pid": "873675",
+   "pages": [
+    84
+   ],
+   "no": null,
+   "kotobagaki": "河上春月",
+   "author": "",
+   "text": "一春毎に霞むならひの名取川なき名とも見ぬ月の影哉",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0021",
+   "pid": "873675",
+   "pages": [
+    84
+   ],
+   "no": null,
+   "kotobagaki": "深夜歸雁",
+   "author": "",
+   "text": "ニ忍ぶぞよまだ深き夜の月影に面影とめて歸る雁がね",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0022",
+   "pid": "873675",
+   "pages": [
+    84
+   ],
+   "no": null,
+   "kotobagaki": "藤花随風",
+   "author": "",
+   "text": "風吹けば松の下水ゆくかたに梢もなびく春のふぢ波",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0023",
+   "pid": "873675",
+   "pages": [
+    84
+   ],
+   "no": null,
+   "kotobagaki": "橋邊款冬※",
+   "author": "",
+   "text": "徒にとはれし春を山吹の花にぞかこつ谷のかけはし",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0024",
+   "pid": "873675",
+   "pages": [
+    84
+   ],
+   "no": null,
+   "kotobagaki": "船中暮春",
+   "author": "",
+   "text": "慕へども春は止らぬ同じ江に棚無小卅溜ぎや歸らむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0025",
+   "pid": "873675",
+   "pages": [
+    84
+   ],
+   "no": null,
+   "kotobagaki": "卯花隱路",
+   "author": "",
+   "text": "夘の花の色にも猶や辿るらむ雪に紛ひし小野の細道",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0026",
+   "pid": "873675",
+   "pages": [
+    84
+   ],
+   "no": null,
+   "kotobagaki": "初聞郭公-",
+   "author": "",
+   "text": "數ならぬ身には習はぬ初音とて聞きても辿る郭公哉",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0027",
+   "pid": "873675",
+   "pages": [
+    84
+   ],
+   "no": null,
+   "kotobagaki": "山家郭公",
+   "author": "",
+   "text": "〓郭公開ずといはゞ山深み住むかひなしと人や思はむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0028",
+   "pid": "873675",
+   "pages": [
+    84
+   ],
+   "no": null,
+   "kotobagaki": "池朝菖蒲",
+   "author": "",
+   "text": "〓水水波波せ懸て〓蒲草けさびく袖に露ぞこぼるゝ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0029",
+   "pid": "873675",
+   "pages": [
+    84
+   ],
+   "no": null,
+   "kotobagaki": "閑居蚊火",
+   "author": "",
+   "text": "。蚊蚊火の短立てずばいかにして此山陰の宿を知まし",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0030",
+   "pid": "873675",
+   "pages": [
+    84
+   ],
+   "no": null,
+   "kotobagaki": "盧橋驚夢",
+   "author": "",
+   "text": "。夢ならで昔に通ふ名殘とや寢覺の袖に薰るたちばな",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0031",
+   "pid": "873675",
+   "pages": [
+    84
+   ],
+   "no": null,
+   "kotobagaki": "杜五月雨",
+   "author": "",
+   "text": "。〓〓す日數も知らず柏木のもりて寂しき五月雨の聲",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0032",
+   "pid": "873675",
+   "pages": [
+    84
+   ],
+   "no": null,
+   "kotobagaki": "野夕夏草",
+   "author": "",
+   "text": "一緒結ぶ夕になれば夏の野の草の茂みに分きぞ兼ぬる",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0033",
+   "pid": "873675",
+   "pages": [
+    84
+   ],
+   "no": null,
+   "kotobagaki": "湖底螢火",
+   "author": "",
+   "text": "10谷深み淺からぬ身の思とはよそに知られて飛ぶ養哉",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0034",
+   "pid": "873675",
+   "pages": [
+    84
+   ],
+   "no": null,
+   "kotobagaki": "行路夕立",
+   "author": "",
+   "text": "xo越えやらで日數重なる山路をも易くぞ過る夕立の空",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0035",
+   "pid": "873675",
+   "pages": [
+    84
+   ],
+   "no": null,
+   "kotobagaki": "秋二十首初秋朝風",
+   "author": "",
+   "text": "わいつのまに吹變りけむ此ねぬる朝げの袖の秋の初風",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0036",
+   "pid": "873675",
+   "pages": [
+    84
+   ],
+   "no": null,
+   "kotobagaki": "閣月七夕",
+   "author": "",
+   "text": "〓天の河あはぬふ月を重ねてぞ同じ恨の數もそひける",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0037",
+   "pid": "873675",
+   "pages": [
+    84
+   ],
+   "no": null,
+   "kotobagaki": "野亨夕萩",
+   "author": "",
+   "text": "60秋萩の花も仇なは夕露に結ぶもかりの野邊の庵かな",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0038",
+   "pid": "873675",
+   "pages": [
+    84
+   ],
+   "no": null,
+   "kotobagaki": "江邊曉荻",
+   "author": "",
+   "text": "加明けわたる入江の波は長閑にて〓の末葉に殘る浦風",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0039",
+   "pid": "873675",
+   "pages": [
+    84
+   ],
+   "no": null,
+   "kotobagaki": "山家初雁",
+   "author": "",
+   "text": "。憂き〓とを思連ねぬ雁がねは鳴きてぞ來ぬる秋の山里",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0040",
+   "pid": "873675",
+   "pages": [
+    84
+   ],
+   "no": null,
+   "kotobagaki": "海上待月",
+   "author": "",
+   "text": "一渡の原いづくを波の限にて空ゆく月の影を待つらむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0041",
+   "pid": "873675",
+   "pages": [
+    84
+   ],
+   "no": null,
+   "kotobagaki": "松聞夜月",
+   "author": "",
+   "text": "ニもる月の心盡しのつれなさも松にぞ〓とに思知りぬる",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0042",
+   "pid": "873675",
+   "pages": [
+    84
+   ],
+   "no": null,
+   "kotobagaki": "深山見月",
+   "author": "",
+   "text": "花ならで又あくがるゝ心かな吉野の奥の秋の夜の月",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0043",
+   "pid": "873675",
+   "pages": [
+    84
+   ],
+   "no": null,
+   "kotobagaki": "草露映月",
+   "author": "",
+   "text": "むむすびおく露の契もあらはれて軒の葱に宿る月かな",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0044",
+   "pid": "873675",
+   "pages": [
+    84
+   ],
+   "no": null,
+   "kotobagaki": "關路惜月",
+   "author": "",
+   "text": "一夜夜宿るばかりの月影をとめずばつらし須磨の關守",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0045",
+   "pid": "873675",
+   "pages": [
+    84
+   ],
+   "no": null,
+   "kotobagaki": "鹿聲夜友",
+   "author": "",
+   "text": "な數ならぬうき身の友と賴む夜は思や餘るさを鹿の聲",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0046",
+   "pid": "873675",
+   "pages": [
+    84
+   ],
+   "no": null,
+   "kotobagaki": "田家擣衣",
+   "author": "",
+   "text": "せまどろまでもると計のしるし哉秋の田面に衣うつ也",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0047",
+   "pid": "873675",
+   "pages": [
+    84
+   ],
+   "no": null,
+   "kotobagaki": "古渡秋霧",
+   "author": "",
+   "text": "〓渡〓舟さしうけて急ぐまで暮れぬと見ゆる淀の河霧",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0048",
+   "pid": "873675",
+   "pages": [
+    84
+   ],
+   "no": null,
+   "kotobagaki": "秋風滿野",
+   "author": "",
+   "text": "一行行く色をば知ず武藏野やなべて草葉に秋風ぞ吹く",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0049",
+   "pid": "873675",
+   "pages": [
+    84
+   ],
+   "no": null,
+   "kotobagaki": "雛下聞蟲",
+   "author": "",
+   "text": "0咲きみだす花の雛に鳴く蟲や秋は千草に物思ふらむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0050",
+   "pid": "873675",
+   "pages": [
+    84
+   ],
+   "no": null,
+   "kotobagaki": "紅葉寫水",
+   "author": "",
+   "text": "一谷川の淺瀬の水や增るら深き紅葉の色をうつして",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0051",
+   "pid": "873675",
+   "pages": [
+    84
+   ],
+   "no": null,
+   "kotobagaki": "山中紅葉",
+   "author": "",
+   "text": "三山深き秋の紅葉の色よりも淺からずこそ尋ね入ぬれ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0052",
+   "pid": "873675",
+   "pages": [
+    84
+   ],
+   "no": null,
+   "kotobagaki": "露底槿花",
+   "author": "",
+   "text": "ははなななやだなる露の色に立つ名を埋るゝ權の花",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0053",
+   "pid": "873675",
+   "pages": [
+    84
+   ],
+   "no": null,
+   "kotobagaki": "河邊菊花",
+   "author": "",
+   "text": "〓變變る霜やはおそき川風にほのかに出づる白菊の花",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0054",
+   "pid": "873675",
+   "pages": [
+    84
+   ],
+   "no": null,
+   "kotobagaki": "獨惜暮秋",
+   "author": "",
+   "text": "正止ずずいいにせむとて行秋の我身一つに悲かる覧",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0055",
+   "pid": "873675",
+   "pages": [
+    84
+   ],
+   "no": null,
+   "kotobagaki": "冬十首初冬時雨",
+   "author": "",
+   "text": "た神無月哀は變るしるしにて秋より冬にふる時雨かな",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0056",
+   "pid": "873675",
+   "pages": [
+    84
+   ],
+   "no": null,
+   "kotobagaki": "霜埋落葉",
+   "author": "",
+   "text": "七誘ひこし風も己が儘ならで霜に朽ちぬる庭の紅葉は",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0057",
+   "pid": "873675",
+   "pages": [
+    84
+   ],
+   "no": null,
+   "kotobagaki": "屋上聞被",
+   "author": "",
+   "text": "〓版はれし時雨の後の眞木の屋に音も變らで降る般哉",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0058",
+   "pid": "873675",
+   "pages": [
+    84
+   ],
+   "no": null,
+   "kotobagaki": "古寺初雪",
+   "author": "",
+   "text": "た誘はるゝ雲の紛ひにかつ降て雪も初潮の山風ぞ吹く",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0059",
+   "pid": "873675",
+   "pages": [
+    84
+   ],
+   "no": null,
+   "kotobagaki": "庭雪厭人",
+   "author": "",
+   "text": "cmとはれつる身の習はしの有顏に跡脈はるゝ庭の白雪",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0060",
+   "pid": "873675",
+   "pages": [
+    84
+   ],
+   "no": null,
+   "kotobagaki": "海邊松雪",
+   "author": "",
+   "text": "降る雪は積りにけりな白波の音せでこゆる末の松山",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0061",
+   "pid": "873675",
+   "pages": [
+    84
+   ],
+   "no": null,
+   "kotobagaki": "水江寒蘆",
+   "author": "",
+   "text": "一難波潟入江の波は音立てヽ章の枯葉に風もたまらず",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0062",
+   "pid": "873675",
+   "pages": [
+    84
+   ],
+   "no": null,
+   "kotobagaki": "湖上千鳥",
+   "author": "",
+   "text": "音たえて志賀の浦波凍る夜は立も障らで千鳥鳴く也",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0063",
+   "pid": "873675",
+   "pages": [
+    84
+   ],
+   "no": null,
+   "kotobagaki": "寒夜水鳥",
+   "author": "",
+   "text": "池水水立立離れぬ蘆鴨の浮寢ばかりぞ凍らざりける",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0064",
+   "pid": "873675",
+   "pages": [
+    84
+   ],
+   "no": null,
+   "kotobagaki": "歲暮測水",
+   "author": "",
+   "text": "徒につもり重ねて行く年の日かずも知らぬ谷川の水",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0065",
+   "pid": "873675",
+   "pages": [
+    84
+   ],
+   "no": null,
+   "kotobagaki": "戀二十首初尋緣戀",
+   "author": "",
+   "text": "誘ひくる霞の隙の春風にまだ見ぬ花の行へをぞとふ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0066",
+   "pid": "873675",
+   "pages": [
+    84
+   ],
+   "no": null,
+   "kotobagaki": "聞聲忍戀",
+   "author": "",
+   "text": "好よそに聞く雲居の雁の一聲も憂名忘ていかゞ忍ばむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0067",
+   "pid": "873675",
+   "pages": [
+    84
+   ],
+   "no": null,
+   "kotobagaki": "忍親服戀",
+   "author": "",
+   "text": "〓無名ぞと云ても果ていかならむ親の護の背く身ならば",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0068",
+   "pid": "873675",
+   "pages": [
+    84
+   ],
+   "no": null,
+   "kotobagaki": "所不會戀",
+   "author": "",
+   "text": "ないかに猶つれなからまし神だにも受ぬ契は程と知せば",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0069",
+   "pid": "873675",
+   "pages": [
+    84
+   ],
+   "no": null,
+   "kotobagaki": "旅宿逢戀",
+   "author": "",
+   "text": "變らでもあだなる中ぞ知れける唯一夜なる草の枕に",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0070",
+   "pid": "873675",
+   "pages": [
+    84
+   ],
+   "no": null,
+   "kotobagaki": "兼厭ハ〓戀",
+   "author": "",
+   "text": "一憂きものと聞きし計の曉を別れぬさきの身に厭ふ哉",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0071",
+   "pid": "873675",
+   "pages": [
+    84
+   ],
+   "no": null,
+   "kotobagaki": "歸無書戀",
+   "author": "",
+   "text": "三立歸り問れぬ程もつらからず今夜憂身と人に知られて",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0072",
+   "pid": "873675",
+   "pages": [
+    84
+   ],
+   "no": null,
+   "kotobagaki": "遇不會悉",
+   "author": "",
+   "text": "一面面さは變の中のつらさにて見しを忘る心ともがな",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0073",
+   "pid": "873675",
+   "pages": [
+    84
+   ],
+   "no": null,
+   "kotobagaki": "契經年戀",
+   "author": "",
+   "text": "四契しを賴む計に長らへて消ぬべき身の年ぞへにける",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0074",
+   "pid": "873675",
+   "pages": [
+    84
+   ],
+   "no": null,
+   "kotobagaki": "疑其僞感",
+   "author": "",
+   "text": "〓りりくんの心の僞は恨み果てぬるつらさなりけり",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0075",
+   "pid": "873675",
+   "pages": [
+    84
+   ],
+   "no": null,
+   "kotobagaki": "返事增戀",
+   "author": "",
+   "text": "畑恨みつる我が理も忘られて增るつらさに書ける玉章",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0076",
+   "pid": "873675",
+   "pages": [
+    84
+   ],
+   "no": null,
+   "kotobagaki": "被厭賊戀",
+   "author": "",
+   "text": "【愛き乍ら數ならぬ身のつらさにも厭れて社思知ぬれ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0077",
+   "pid": "873675",
+   "pages": [
+    84
+   ],
+   "no": null,
+   "kotobagaki": "途中契戀",
+   "author": "",
+   "text": "Noあだなりや道の芝草假そめに結びすてぬる露の契を",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0078",
+   "pid": "873675",
+   "pages": [
+    84
+   ],
+   "no": null,
+   "kotobagaki": "從門歸戀",
+   "author": "",
+   "text": "加深き夜の別と云て槇の戶の明ぬに歸る身とは知られじ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0079",
+   "pid": "873675",
+   "pages": [
+    84
+   ],
+   "no": null,
+   "kotobagaki": "忘住所戀",
+   "author": "",
+   "text": "11忘るとて人のかこたば等閑に〓へし宿と我も恨みむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0080",
+   "pid": "873675",
+   "pages": [
+    84
+   ],
+   "no": null,
+   "kotobagaki": "依戀所身",
+   "author": "",
+   "text": "エ神だにも憂身の程を知られずば逢に替むと猶や祈らむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0081",
+   "pid": "873675",
+   "pages": [
+    84
+   ],
+   "no": null,
+   "kotobagaki": "隔遠路戀",
+   "author": "",
+   "text": "五厭ふぞよ通ふ心のたのみだになくて隔つる峰の白雲",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0082",
+   "pid": "873675",
+   "pages": [
+    84
+   ],
+   "no": null,
+   "kotobagaki": "借人名戀",
+   "author": "",
+   "text": "三いいにせむ憂名を添て喞つ共つらき心の人を分かずば",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0083",
+   "pid": "873675",
+   "pages": [
+    84
+   ],
+   "no": null,
+   "kotobagaki": "絕不知戀",
+   "author": "",
+   "text": "同世に行方をさへに辿るこそ餘りよそなる契也けれ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0084",
+   "pid": "873675",
+   "pages": [
+    84
+   ],
+   "no": null,
+   "kotobagaki": "互恨絶戀",
+   "author": "",
+   "text": "五つらかりし心比べのたゝうきに思定めて遠かるらむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0085",
+   "pid": "873675",
+   "pages": [
+    85
+   ],
+   "no": null,
+   "kotobagaki": "雜二十首曉更寢覺",
+   "author": "",
+   "text": "〓〓の鳥の鳴の鳴く音を知べにて寢覺の程は身に習ひぬる",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0086",
+   "pid": "873675",
+   "pages": [
+    85
+   ],
+   "no": null,
+   "kotobagaki": "薄幕松風",
+   "author": "",
+   "text": "な吹く風も同じ綠の松がえに夕はなにと寂しかるらむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0087",
+   "pid": "873675",
+   "pages": [
+    85
+   ],
+   "no": null,
+   "kotobagaki": "雨中綠竹",
+   "author": "",
+   "text": "AL我我君君惠惠をそへて降る雨に御垣の竹の色ぞ殊なる",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0088",
+   "pid": "873675",
+   "pages": [
+    85
+   ],
+   "no": null,
+   "kotobagaki": "浪洗石苔",
+   "author": "",
+   "text": "な蒸蒸苦苦變變らで打寄する岩間の波の音ぞ碎くる",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0089",
+   "pid": "873675",
+   "pages": [
+    85
+   ],
+   "no": null,
+   "kotobagaki": "高山待月",
+   "author": "",
+   "text": "〓待ち出るほどぞ寂しき葛城や高間の山の秋の夜の月",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0090",
+   "pid": "873675",
+   "pages": [
+    85
+   ],
+   "no": null,
+   "kotobagaki": "山中瀧水",
+   "author": "",
+   "text": "〓瀧の音もまだ消別れぬ山水に習はですむは心也けり",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0091",
+   "pid": "873675",
+   "pages": [
+    85
+   ],
+   "no": null,
+   "kotobagaki": "河水流〓",
+   "author": "",
+   "text": "チ千ををてて一度すめる川水の流は君ぞ酌べかりける",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0092",
+   "pid": "873675",
+   "pages": [
+    85
+   ],
+   "no": null,
+   "kotobagaki": "春秋野遊",
+   "author": "",
+   "text": "2立立返り同野原にあくがれて花と紅葉も身にぞ馴ぬる",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0093",
+   "pid": "873675",
+   "pages": [
+    85
+   ],
+   "no": null,
+   "kotobagaki": "關路行客",
+   "author": "",
+   "text": "旅人の絕えぬ住來に逢坂の關守いかに苦しかるらむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0094",
+   "pid": "873675",
+   "pages": [
+    85
+   ],
+   "no": null,
+   "kotobagaki": "山家夕嵐",
+   "author": "",
+   "text": "山里にたへて住まむと思ひしは嵐も聞かぬ夕也けり",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0095",
+   "pid": "873675",
+   "pages": [
+    85
+   ],
+   "no": null,
+   "kotobagaki": "山家人稀",
+   "author": "",
+   "text": "思ひやれ變る人めの冬にだに限らぬ山の奥の寂しさ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0096",
+   "pid": "873675",
+   "pages": [
+    85
+   ],
+   "no": null,
+   "kotobagaki": "海路眺望",
+   "author": "",
+   "text": "見渡せば波間の日影暮ぬらしはや漕歸れ海士の釣舟",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0097",
+   "pid": "873675",
+   "pages": [
+    85
+   ],
+   "no": null,
+   "kotobagaki": "月縣中友",
+   "author": "",
+   "text": "ス契契らずよ別れし都のよはの月草の枕の友となれとは",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0098",
+   "pid": "873675",
+   "pages": [
+    85
+   ],
+   "no": null,
+   "kotobagaki": "旅宿夜雨",
+   "author": "",
+   "text": "林郡思ふ假寝の袖に降る雨やほさぬ淚の類ひなるらむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0099",
+   "pid": "873675",
+   "pages": [
+    85
+   ],
+   "no": null,
+   "kotobagaki": "海邊曉雲",
+   "author": "",
+   "text": "〇七福てこし夜の間の雲や分るらむ顕れそむる沖つ白波",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0100",
+   "pid": "873675",
+   "pages": [
+    85
+   ],
+   "no": null,
+   "kotobagaki": "寄夢無常",
+   "author": "",
+   "text": "一あだに見し一夜の夢の其儘に覺ても元の浮世也けり",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0101",
+   "pid": "873675",
+   "pages": [
+    85
+   ],
+   "no": null,
+   "kotobagaki": "寄草述懷",
+   "author": "",
+   "text": "一理もるゝ霜の下草あらはれて榮えむ春の光をぞ待つ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0102",
+   "pid": "873675",
+   "pages": [
+    85
+   ],
+   "no": null,
+   "kotobagaki": "寄木述懷",
+   "author": "",
+   "text": "ささりともと頼みをかけて春日山憂身忘るゝ北の藤波",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0103",
+   "pid": "873675",
+   "pages": [
+    85
+   ],
+   "no": null,
+   "kotobagaki": "逐日懐舊",
+   "author": "",
+   "text": "忍ばるゝその古は隔たりて待たぬ月日のなど積る覽",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-fujikawa-gohyakushu-0104",
+   "pid": "873675",
+   "pages": [
+    85
+   ],
+   "no": null,
+   "kotobagaki": "社頭祝言",
+   "author": "",
+   "text": "エ萬萬にまつの千年の色そへて君をぞまもる住吉の神",
+   "sachu": "",
+   "jo": ""
+  }
+ ]
+}
