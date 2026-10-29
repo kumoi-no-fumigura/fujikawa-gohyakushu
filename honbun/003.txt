@@ -1,4 +1,4 @@
-zkt-fujikawa-gohyakushu-0101		寄草述懷		一理もるゝ霜の下草あらはれて榮えむ春の光をぞ待つ	
-zkt-fujikawa-gohyakushu-0102		寄木述懷		ささりともと頼みをかけて春日山憂身忘るゝ北の藤波	
-zkt-fujikawa-gohyakushu-0103		逐日懐舊		忍ばるゝその古は隔たりて待たぬ月日のなど積る覽	
-zkt-fujikawa-gohyakushu-0104		社頭祝言		エ萬萬にまつの千年の色そへて君をぞまもる住吉の神	
+zkt-fujikawa-gohyakushu-0101	101	寄草述懷		一理もるゝ霜の下草あらはれて榮えむ春の光をぞ待つ	
+zkt-fujikawa-gohyakushu-0102	102	寄木述懷		ささりともと頼みをかけて春日山憂身忘るゝ北の藤波	
+zkt-fujikawa-gohyakushu-0103	103	逐日懐舊		忍ばるゝその古は隔たりて待たぬ月日のなど積る覽	
+zkt-fujikawa-gohyakushu-0104	104	社頭祝言		エ萬萬にまつの千年の色そへて君をぞまもる住吉の神	
