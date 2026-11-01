@@ -29,7 +29,10 @@
  "license": {
   "text": "CC0 1.0"
  },
- "translation": "",
+ "translation": {
+  "count": 104,
+  "note": "AI による現代語訳"
+ },
  "blocks": [
   {
    "id": "zkt-fujikawa-gohyakushu-0001",
@@ -1500,7 +1503,7 @@
   "blocks": 104,
   "chars": 2394,
   "poems": 104,
-  "yaku": 0,
+  "yaku": 104,
   "editions": 1,
   "updated": "2026-11-02",
   "updated_at": "2026-11-02T05:05:47+09:00"
